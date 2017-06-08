@@ -24,9 +24,12 @@
     width: 65%;
 }
 
-.time-container {
-    width: 100px;
+#time-container {
+    width: 120px;
     padding-top: 10px;
+    font-size: 25px;
+    color: white;
+    font-family: sans-serif;
 }
 
 .time{
@@ -91,7 +94,7 @@
     font-weight: 600;
     text-transform: uppercase;
     opacity: 1;
-    border-bottom: 4px solid #F3524A;
+    border-bottom: 6px solid #F3524A;
     padding-bottom: 10px;
     width: 33%;
     margin: 0 auto 30px;
